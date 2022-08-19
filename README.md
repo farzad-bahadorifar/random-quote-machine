@@ -48,5 +48,5 @@ Start the server
 
 ## Demo
 
-https://f6rz9d.github.io/random-quote-machine
+https://farzad-bahadorifar.github.io/random-quote-machine/
 
